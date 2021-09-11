@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #bdc3c7;
+}
+
+.heading {
+    color: brown;
+    font-weight: 700;
+}
+
+.submit-btn {
+    background-color: #30336b;
+    color: #fff;
+    border-radius: 5px;
+}
+.submit-btn:hover {
+    color: coral;
+}
+.issue-box{
+    background-color: #d1ccc0;
+    border-radius: 10px;
+}
+
+.issue-card {
+    background-color: #a5b1c2;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 20px 25px;
+    border-radius: 10px;
+}
+
+.status {
+    background-color: #e67e22;
+    color: #fff;
+    padding: 2px 8px;
+    border-radius: 5px;
+}
+
+.close-btn {
+    background-color: #C4E538;
+    border-radius: 5px;
+}
+
+.del-btn {
+    background-color: #cf6a87;
+    border-radius: 5px;
+    margin-left: 5px;
+}
